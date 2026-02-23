@@ -1,0 +1,21 @@
+{
+  "name": "BICS Shoronkhola South",
+  "short_name": "BICS South",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#065f46",
+  "description": "Official portal for BICS Shoronkhola South branch.",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/en/2/27/Bangladesh_Islami_Chhatra_Shibir_Logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/en/2/27/Bangladesh_Islami_Chhatra_Shibir_Logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
